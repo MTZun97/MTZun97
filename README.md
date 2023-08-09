@@ -1,16 +1,32 @@
-### Hi there 👋
+# 👻 Moe Thiri Zun 
+📖 Master of Energy Science - Energy Economics - Kyoto University <br>
+👩🏻‍🎓 Master in Renewable Energy - University of Malaya <br>
+👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University <br>
+⚡ Fun fact: I learn to automate things to spend more time with my dogs.
 
-<!--
-**MTZun97/MTZun97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Area of Research
+- **Renewable Energy**
+- **Hydrogen Economy**
+- **Energy Modelling**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moethiri-zun-zun) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+# 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MTZun97&theme=dark&hide_border=false&include_all_commits=false&count_private=true&cache=off)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MTZun97&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&cache=off)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MTZun97&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MTZun97&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
