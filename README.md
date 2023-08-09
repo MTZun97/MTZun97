@@ -1,7 +1,7 @@
 # 👻 Moe Thiri Zun 
-📖 Master of Energy Science - Energy Economics
-👩🏻‍🎓 Master in Renewable Energy - University of Malaya <br>
-👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University <br>
+📖 Master of Energy Science - Energy Economics  
+👩🏻‍🎓 Master in Renewable Energy - University of Malaya  
+👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University  
 
 
 # 🌱 Area of Research
