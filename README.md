@@ -1,8 +1,8 @@
 # 👻 Moe Thiri Zun 
-📖 Master of Energy Science - Energy Economics - Kyoto University <br>
+📖 Master of Energy Science - Energy Economics
 👩🏻‍🎓 Master in Renewable Energy - University of Malaya <br>
 👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University <br>
-⚡ Fun fact: I learn to automate things to spend more time with my dogs.
+
 
 # 🌱 Area of Research
 - **Renewable Energy**
@@ -10,8 +10,6 @@
 - **Energy Modelling**
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moethiri-zun-zun) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
