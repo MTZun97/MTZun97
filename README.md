@@ -1,4 +1,5 @@
-# 👻 Moe Thiri Zun 
+# 👻 Moe Thiri Zun ![](https://komarev.com/ghpvc/?username=MTZun97)
+
 📖 Master of Energy Science - Energy Economics  
 👩🏻‍🎓 Master in Renewable Energy - University of Malaya  
 👩🏻‍🎓 Bachelor in Mechanical Engineering - Yangon Technological University  
